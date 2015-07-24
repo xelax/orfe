@@ -1,0 +1,457 @@
+
+ nlinee 13
+linea 0
+linea 1
+linea 2
+linea 3
+linea 7
+linea 8
+linea 9
+linea 10
+linea 11
+linea 12
+linea 13
+linea 14
+linea 15
+
+ncitta = 13
+Citta:   00
+Citta:   01
+Citta:   02
+Citta:   03
+Citta:   04
+Citta:   05
+Citta:   06
+Citta:   07
+Citta:   08
+Citta:   09
+Citta:   10
+Citta:   11
+Citta:   12
+
+
+nodo anomalo 0
+Linea 0, capolinea 0
+nodo anomalo 0
+linea 0	stazione0
+Linea 1, capolinea 1
+linea 1	stazione1
+linea 1	stazione2
+linea 1	stazione3
+linea 1	stazione5
+linea 1	stazione8
+Linea 2, capolinea 2
+linea 2	stazione2
+linea 2	stazione4
+Linea 3, capolinea 4
+linea 3	stazione4
+linea 3	stazione8
+Linea 7, capolinea 3
+linea 7	stazione3
+linea 7	stazione6
+Linea 8, capolinea 5
+linea 8	stazione5
+linea 8	stazione7
+Linea 9, capolinea 8
+linea 9	stazione8
+linea 9	stazione9
+Linea 10, capolinea 6
+linea 10	stazione6
+linea 10	stazione7
+Linea 11, capolinea 6
+linea 11	stazione6
+linea 11	stazione11
+Linea 12, capolinea 7
+linea 12	stazione7
+linea 12	stazione10
+Linea 13, capolinea 9
+linea 13	stazione9
+linea 13	stazione10
+Linea 14, capolinea 9
+linea 14	stazione9
+linea 14	stazione12
+Linea 15, capolinea 10
+linea 15	stazione10
+linea 15	stazione12
+linea      0
+stazioni   1
+treni      0
+stazione-> 12689820
+treno   -> 0
+orario  -> 0
+linea      1
+stazioni   5
+treni      0
+stazione-> 12689828
+treno   -> 0
+orario  -> 0
+linea      2
+stazioni   2
+treni      0
+stazione-> 12689852
+treno   -> 0
+orario  -> 0
+linea      3
+stazioni   2
+treni      0
+stazione-> 12689864
+treno   -> 0
+orario  -> 0
+linea      7
+stazioni   2
+treni      0
+stazione-> 12689876
+treno   -> 0
+orario  -> 0
+linea      8
+stazioni   2
+treni      0
+stazione-> 12689888
+treno   -> 0
+orario  -> 0
+linea      9
+stazioni   2
+treni      0
+stazione-> 12689900
+treno   -> 0
+orario  -> 0
+linea      10
+stazioni   2
+treni      0
+stazione-> 12689912
+treno   -> 0
+orario  -> 0
+linea      11
+stazioni   2
+treni      0
+stazione-> 12689924
+treno   -> 0
+orario  -> 0
+linea      12
+stazioni   2
+treni      0
+stazione-> 12689936
+treno   -> 0
+orario  -> 0
+linea      13
+stazioni   2
+treni      0
+stazione-> 12689948
+treno   -> 0
+orario  -> 0
+linea      14
+stazioni   2
+treni      0
+stazione-> 12689960
+treno   -> 0
+orario  -> 0
+linea      15
+stazioni   2
+treni      0
+stazione-> 12689972
+treno   -> 0
+orario  -> 0
+Nodo di lavoro
+Sasso nodo 1
+Sasso peso 0
+Sasso puntato 0
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 2
+Sasso peso 5
+Sasso puntato 1
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 2
+Sasso peso 5
+Sasso puntato 1
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 3
+Sasso peso 10
+Sasso puntato 2
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 4
+Sasso peso 15
+Sasso puntato 2
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 3
+Sasso peso 10
+Sasso puntato 2
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 5
+Sasso peso 25
+Sasso puntato 3
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 6
+Sasso peso 35
+Sasso puntato 3
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 4
+Sasso peso 15
+Sasso puntato 2
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 8
+Sasso peso 25
+Sasso puntato 4
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 5
+Sasso peso 25
+Sasso puntato 3
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 7
+Sasso peso 55
+Sasso puntato 5
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 8
+Sasso peso 45
+Sasso puntato 5
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 8
+Sasso peso 25
+Sasso puntato 4
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 9
+Sasso peso 30
+Sasso puntato 8
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 9
+Sasso peso 30
+Sasso puntato 8
+Sasso npunt 0
+
+percorso definitivo
+Sasso nodo 9
+Sasso peso 30
+Sasso puntato 8
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 6
+Sasso peso 35
+Sasso puntato 3
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 7
+Sasso peso 45
+Sasso puntato 6
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 11
+Sasso peso 40
+Sasso puntato 6
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 11
+Sasso peso 40
+Sasso puntato 6
+Sasso npunt 0
+
+freeSasso:libero il sasso
+Sasso nodo 11
+Sasso peso 40
+Sasso puntato 6
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 7
+Sasso peso 45
+Sasso puntato 6
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 10
+Sasso peso 65
+Sasso puntato 7
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 8
+Sasso peso 45
+Sasso puntato 5
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 9
+Sasso peso 50
+Sasso puntato 8
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 9
+Sasso peso 50
+Sasso puntato 8
+Sasso npunt 0
+
+percorso definitivo
+Sasso nodo 9
+Sasso peso 50
+Sasso puntato 8
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 10
+Sasso peso 60
+Sasso puntato 9
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 12
+Sasso peso 60
+Sasso puntato 9
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 7
+Sasso peso 55
+Sasso puntato 5
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 10
+Sasso peso 75
+Sasso puntato 7
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 10
+Sasso peso 60
+Sasso puntato 9
+Sasso npunt 0
+
+METTO IN BISACCIA 
+Sasso nodo 12
+Sasso peso 75
+Sasso puntato 10
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 12
+Sasso peso 60
+Sasso puntato 9
+Sasso npunt 0
+
+freeSasso:libero il sasso
+Sasso nodo 12
+Sasso peso 60
+Sasso puntato 9
+Sasso npunt 0
+
+Nodo di lavoro
+Sasso nodo 10
+Sasso peso 65
+Sasso puntato 7
+Sasso npunt 0
+
+freeSasso:libero il sasso
+Sasso nodo 10
+Sasso peso 65
+Sasso puntato 7
+Sasso npunt 0
+
+freeSasso:libero il sasso
+Sasso nodo 7
+Sasso peso 45
+Sasso puntato 6
+Sasso npunt 1
+
+freeSasso:libero il sasso
+Sasso nodo 6
+Sasso peso 35
+Sasso puntato 3
+Sasso npunt 1
+
+Nodo di lavoro
+Sasso nodo 10
+Sasso peso 75
+Sasso puntato 7
+Sasso npunt 0
+
+freeSasso:libero il sasso
+Sasso nodo 10
+Sasso peso 75
+Sasso puntato 7
+Sasso npunt 0
+
+freeSasso:libero il sasso
+Sasso nodo 7
+Sasso peso 55
+Sasso puntato 5
+Sasso npunt 1
+
+Nodo di lavoro
+Sasso nodo 12
+Sasso peso 75
+Sasso puntato 10
+Sasso npunt 0
+
+freeSasso:libero il sasso
+Sasso nodo 12
+Sasso peso 75
+Sasso puntato 10
+Sasso npunt 0
+
+freeSasso:libero il sasso
+Sasso nodo 10
+Sasso peso 60
+Sasso puntato 9
+Sasso npunt 1
+
+freeSasso:libero il sasso
+Sasso nodo 9
+Sasso peso 50
+Sasso puntato 8
+Sasso npunt 1
+
+freeSasso:libero il sasso
+Sasso nodo 8
+Sasso peso 45
+Sasso puntato 5
+Sasso npunt 1
+
+freeSasso:libero il sasso
+Sasso nodo 5
+Sasso peso 25
+Sasso puntato 3
+Sasso npunt 1
+
+freeSasso:libero il sasso
+Sasso nodo 3
+Sasso peso 10
+Sasso puntato 2
+Sasso npunt 1
+
+Nodo di lavoro
+stampaSasso: NULL pointer
+
+ percorsi trovati:

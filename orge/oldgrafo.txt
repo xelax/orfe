@@ -1,0 +1,5 @@
+Palermo		Fiumetorto		40		369
+Palermo		Termini_I.		37		368
+Termini_I.	Fiumetorto		 3		368
+Fiumetorto  S.Agata			 83		368
+S.Agata		Messina			106		368
